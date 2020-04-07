@@ -1,5 +1,9 @@
 # pt2k-fuat
 
-username:-admin
-password:-admin
-sql file is in _db folder
+1)---->username:-admin
+
+
+2)---->password:-admin
+
+
+3)---->sql file is in _db folder
